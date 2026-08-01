@@ -76,7 +76,7 @@ Sentiment_Analysis/
 - Charts & Analytics Dashboard
 - User Login System
 
----## 📌 Note
+---## Note
 
 `dataset.csv` is not included in this repository due to its large file size.
 
